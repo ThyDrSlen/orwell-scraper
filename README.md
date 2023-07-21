@@ -27,7 +27,7 @@ To use this script, you need to have Python installed along with the following l
 You can install these libraries using pip:
 
 ```bash
-pip install asyncio aiohttp playwright os fake_useragent
+pip install -r requirements.txt
 ```
 
 Additionally, you will need an account with [BrightData](https://help.brightdata.com/hc/en-us/articles/13362921219729-Getting-started-with-Scraping-Browser) to set up a proxy system. This is necessary to avoid getting blocked when accessing websites.
