@@ -1,8 +1,8 @@
-# Project Image Scraper: Vision Transformer Training
+# Project Orwell
 
 _"In a time of deceit, telling the truth is a revolutionary act."_ - George Orwell
 
-In the spirit of Orwell's pursuit of truth, I present you with a tool that is as straightforward as it is powerful. This is a project that aims to scrape images from the web to train a Vision Transformer model for image classification. The code, written in Python, uses the asyncio, aiohttp, and playwright libraries to asynchronously download images from a website. It is designed to mimic human behavior by scrolling down the page and downloading images as it goes.
+In the spirit of Orwell's pursuit of truth, I present you with a tool that is as straightforward as it is powerful. This is a project that aims to scrape images from the web. The code, written in Python, uses the asyncio, aiohttp, and playwright libraries to asynchronously download images from a website. It is designed to mimic human behavior by scrolling down the page and downloading images as it goes.
 
 **Disclaimer:** This project is for educational purposes only. I do not condone the use of this web scraper for use on goat.com or any other website without explicit permission from the website owners. Always respect the terms of service of any website you scrape.
 
